@@ -10,12 +10,10 @@ The dataset generated for the task in resemblence to the one provided in the pro
 
 ![image](https://user-images.githubusercontent.com/97694796/223728910-84292194-97a5-4f6f-8e6e-f0c7c6dfaee4.png)
 
-Furthermore, it has the following characteristics:
-
-Class	    Count	     Percentage
-C1	      228	        50%
-C2	      228	        50%
 
 The proposed solution evaluates the network based on a number of metrics i.e., accuracy, loss, confusion matrix. Furthermore, I discuss the comparative performance of each model on the problem at hand.
-In this regard, I have plotted error curves for training and validation sets and studied the impact of varying model hyperparamters on the performance. Overall, it was observed that the BPN performed significantly well when compared to the CPN, however, it took a considerable an=mount of time to train on the dataset. 
+In this regard, I have plotted error curves for training and validation sets and studied the impact of varying model hyperparamters on the performance. Overall, it was observed that the BPN performed significantly well when compared to the CPN, however, it took a considerable an=mount of time to train on the dataset. A summary of both classifier's performance can be observed with the following table.
+
+![image](https://user-images.githubusercontent.com/97694796/223730630-8fc399d7-8101-4315-b3f2-57a65bb306aa.png)
+
 
