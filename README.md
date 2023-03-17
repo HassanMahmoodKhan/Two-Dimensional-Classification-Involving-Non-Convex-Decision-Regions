@@ -3,6 +3,10 @@ Two-dimensional binary classification problem involving non-convex decision regi
 The proposed solution employs a Back Propagation and Counter Propagation Network to distinguish whether an input pattern belongs to class C1 or C2.
 
 ## Dataset Generation
+The dataset can be defined as having the following chracteristics:
+
+![Table](https://user-images.githubusercontent.com/97694796/226027259-2164c5c8-335e-4850-85d8-f03d5ce8e728.png)
+
 Class C1 consists of pattern points marked inside the area marked C1 and class C2 consisits of pattern points inside the area marked C2.
 
 ![Dataset](https://user-images.githubusercontent.com/97694796/223731272-454b83ff-68ab-4fb8-81a9-f09ae8c4ad15.png)
