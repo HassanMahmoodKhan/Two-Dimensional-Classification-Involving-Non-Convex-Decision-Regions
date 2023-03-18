@@ -30,7 +30,6 @@ Both models have been evaluated based on a number of metrics:
 2) Confusion Matrix
 3) Binary Cross Entropy (MLP only)
 
-## Conclusion
 A comparative analysis between the Back Propagation Network and the Counter Propagation Network on the problem at hand given the same dataset. We observe the optimal results produced by each model to objectively view their performance.
 
 ![Table](https://user-images.githubusercontent.com/97694796/226023213-2c1530cc-d36e-4da1-ad29-966c880e2ea2.png)
